@@ -66,4 +66,5 @@ Me especializo en diseñar y construir aplicaciones web y móviles escalables, i
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakkyGe&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakkyGe&stats_format=bytes)
+---
 
