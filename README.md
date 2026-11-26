@@ -4,8 +4,8 @@
 
 Me especializo en diseñar y construir aplicaciones web y móviles escalables, integrando arquitecturas limpias, bases de datos relacionales/NoSQL y metodologías ágiles (Scrum). Actualmente busco mi **Práctica Profesional** para aportar en equipos de desarrollo de software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Cotta-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lorenzo-cotta/)
-[![Gmail](https://img.shields.io/badge/Gmail-lorenzocottamolina%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzocottamolina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo_Cotta-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lorenzo-cotta/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contactar_por_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzocottamolina@gmail.com)
 
 ---
 
