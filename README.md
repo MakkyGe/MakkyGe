@@ -6,7 +6,7 @@ Me especializo en diseñar y construir aplicaciones web y móviles escalables, i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Cotta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cotta/)
 [![Gmail](https://img.shields.io/badge/Email-lorenzocottamolina@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzocottamolina@gmail.com)
-[![Estado](https://img.shields.io/badge/Estado-Disponible%20para%20Práctica%20Profesional-2EA44F?style=for-the-badge)]()
+
 
 ---
 
